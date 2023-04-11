@@ -1,1 +1,11 @@
+1. Data Cleaning :
+
+> look for null values in all the columns and remove them
+> look for NaN values in all the columns and remove them
+> look for NA values in all the columns and remove them
+> Find and replace the necessary values.
+>lastly check all the columns individually for any errors.
+
+
+2. Data Processing :
 
