@@ -39,8 +39,14 @@ Q7. WHICH CHANNEL IS CONTRIBUTING TO MAXIMUM SALES ?
 ![ORDER BY CHANNEL](https://user-images.githubusercontent.com/52094094/234002039-88edaaf7-e9e3-4bb7-9e67-1c2b8ce47088.png)
 
 
+
 Q8. HIGHEST SELLING CATEGORY ?, ETC
 ![HIGHEST SALES BY CATEGORY](https://user-images.githubusercontent.com/52094094/234002074-ce0528fc-e597-49ef-91d0-b7ce2aaee231.png)
 
+
+
+
+FINAL REPORT/DASHBOARD :
+![FINAL REPORT](https://user-images.githubusercontent.com/52094094/234002609-1b6f3c3a-a464-4ad0-a927-07e278186d45.png)
 
 
