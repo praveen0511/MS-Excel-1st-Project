@@ -47,6 +47,7 @@ Q8. HIGHEST SELLING CATEGORY ?, ETC
 
 
 FINAL REPORT/DASHBOARD :
-![FINAL REPORT](https://user-images.githubusercontent.com/52094094/234002609-1b6f3c3a-a464-4ad0-a927-07e278186d45.png)
+
+![e1](https://github.com/praveenkumarbarange/E1-FMCG-Grocery-Sales-Data-Analysis-with-Excel/assets/52094094/9aac7a26-65c6-465e-8227-cb7ef4c7f010)
 
 
